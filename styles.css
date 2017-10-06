@@ -1,0 +1,33 @@
+body {
+  background-color: #60d9f1;
+  font-family: 'Comfortaa', cursive;
+}
+.songs {
+  border: 5px solid white;
+  background-color: white;
+  padding: 15px;
+  margin: 25px;
+  width: 400px;
+  border-radius: 15px;
+  color:rgb(4, 118, 143);
+
+}
+input {
+  height: 30px;
+  color:rgb(4, 118, 143);
+  font-size: 15px;
+  border: 4px solid white;
+  border-radius: 10px;
+}
+button {
+  height: 40px;
+  border: 4px solid white;
+  border-radius: 10px;
+  background-color: white;
+  color:rgb(4, 118, 143);
+  font-size: 15px;
+
+}
+ h5 {
+   font-size: 30px;
+ }
